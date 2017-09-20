@@ -1,0 +1,66 @@
+
+div {
+    
+    width: 400px;
+    margin-top: 10px;
+    padding:1px 400px 1px 400px;
+    text-align: justify;
+}
+
+h1 {
+    font-family: "arial";
+    font-size: 20px;
+    text-align: center
+}
+
+#font-size {
+    text-align: center;
+    font-size: 55px;
+    margin: -30px;
+    line-height: 1.5;
+}
+
+#font-size-one {
+    text-align: center;
+    font-size: 17px;
+    margin: -70px 
+    line-height: 1.5;
+}
+
+#font-size-two {
+    text-align: center;
+    font-size: 32px;
+    margin: -10px;
+    line-height: -1.5;
+}
+
+#font-size-three {
+    text-align: center;
+    font-size: 27px;
+    margin: 10px 
+}
+
+#font-size-four {
+    text-align: center;
+    font-size: 77px;
+    margin: -20px 
+}
+
+#font-size-five {
+    text-align: center;
+    font-size: 32px;
+    margin: 0px 
+}
+
+a {
+    opacity: 0.5;
+    color: black;
+    text-decoration: line-through; 
+    cursor:crosshair;
+}
+
+a:hover {
+    color:red;
+}
+
+

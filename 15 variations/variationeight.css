@@ -1,0 +1,67 @@
+
+div {
+    text-align: left;
+    width: 180px;
+    margin-top: 10px;
+    padding:100px 200px 20px 200px;
+}
+
+#two {
+    text-align: left;
+    width: 180px;
+    margin-top: 10px;
+    padding:20px 0px 20px 400px;
+}
+
+#three {
+    text-align: left;
+    width: 180px;
+    margin-top: 10px;
+    padding:20px 0px 20px 600px;
+}
+
+#four {
+    text-align: left;
+    width: 180px;
+    margin-top: 10px;
+    padding:20px 200px 20px 800px;
+}
+
+#five {
+    text-align: left;
+    width: 180px;
+    margin-top: 10px;
+    padding:20px 0px 20px 600px;
+}
+
+#six {
+    text-align: left;
+    width: 180px;
+    margin-top: 10px;
+    padding:20px 0px 20px 400px;
+}
+
+#seven {
+    text-align: left;
+    width: 180px;
+    margin-top: 10px;
+    padding:20px 0px 20px 200px;
+}
+
+a {
+    opacity: 0.5;
+    color: black;
+    text-decoration: line-through; 
+    cursor:crosshair;
+}
+
+a:hover {
+    color:red;
+}
+
+
+
+
+
+
+

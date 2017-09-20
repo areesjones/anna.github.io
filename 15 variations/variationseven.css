@@ -1,0 +1,23 @@
+
+
+div {
+    
+    width: 600px;
+    margin-top: 10px;
+    padding:50px 400px 50px 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    opacity: 0.5;
+    color: black;
+    text-decoration: line-through; 
+    cursor:crosshair;
+}
+
+a:hover {
+    color:red;
+}

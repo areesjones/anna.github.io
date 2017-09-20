@@ -1,0 +1,135 @@
+
+div {
+    
+    width: 1500px;
+    margin-top: 10px;
+    padding:1px 400px 1px 200px;
+    text-align: left;
+}
+
+
+#row1 {
+    text-align: left;
+    margin: -30px;
+    line-height: 1.5;
+    padding:1px 400px 1px 200px;
+}
+
+#row2 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:1px 1000px 1px 200px;
+}
+
+#row3 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:25px 950px 1px 200px;
+}
+
+#row4 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:37px 900px 1px 200px;
+}
+
+#row5 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:43px 850px 1px 200px;
+}
+
+#row6 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:53px 800px 1px 200px;
+}
+
+#row7 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row8 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row9 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row10 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row11 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row12 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row13 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row14 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 800px 1px 200px;
+}
+
+#row15 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:60px 750px 1px 200px;
+}
+
+#row16 {
+    text-align: right;
+    margin: -30px;
+    line-height: 1.5;
+    padding:30px 400px 1px 200px;
+}
+
+a {
+    opacity: 0.5;
+    color: black;
+    text-decoration: line-through; 
+    cursor:crosshair;
+}
+
+a:hover {
+    color:red;
+}
+
+
+

@@ -1,0 +1,26 @@
+
+div {
+    
+    width: 3000px;
+    margin-top: 10px;
+    padding:1px 100px 1px 100px;
+  
+}
+
+#font-size {
+    font-size: 300px;
+    margin: -30px;
+    
+}
+
+a {
+    opacity: 0.5;
+    color: black;
+    text-decoration: line-through; 
+    cursor:crosshair;
+}
+
+a:hover {
+    color:red;
+}
+
